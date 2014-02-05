@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://joanieS.github.io/sitemap.xml 
